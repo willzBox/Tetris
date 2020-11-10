@@ -1,0 +1,13 @@
+C:\Users\user\Documents\College\3rd Semester\C#\Latihan\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\user\Documents\College\3rd Semester\C#\Latihan\Tetris\bin\Debug\Tetris.exe
+C:\Users\user\Documents\College\3rd Semester\C#\Latihan\Tetris\bin\Debug\Tetris.pdb
+C:\Users\user\Documents\College\3rd Semester\C#\Latihan\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\user\Documents\College\3rd Semester\C#\Latihan\Tetris\obj\Debug\Tetris.exe
+C:\Users\user\Documents\College\3rd Semester\C#\Latihan\Tetris\obj\Debug\Tetris.pdb
+D:\Tugas Kuliah\Proyek Algoritma\Tetris\bin\Debug\Tetris.exe.config
+D:\Tugas Kuliah\Proyek Algoritma\Tetris\bin\Debug\Tetris.exe
+D:\Tugas Kuliah\Proyek Algoritma\Tetris\bin\Debug\Tetris.pdb
+D:\Tugas Kuliah\Proyek Algoritma\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\Tugas Kuliah\Proyek Algoritma\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Proyek Algoritma\Tetris\obj\Debug\Tetris.exe
+D:\Tugas Kuliah\Proyek Algoritma\Tetris\obj\Debug\Tetris.pdb
